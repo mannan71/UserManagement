@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Log In</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Login.css" />
+    <script type="text/javascript" src="~/Scripts/jquery-latest.min.js"></script>
+    <script src="~/Scripts/modernizr-latest.js"></script>
+    <script type="text/javascript" src="~/Scripts/LogInPlaceholder.js"></script>
+</head>
+<body>
+    @*Security Management Console :: Manage Your Software Security*@
+    @*
+        @using (@Html.BeginForm("Login", "Account", FormMethod.Post, new { id = "slick-login" }))
+        @using (@Html.BeginForm("AuthenticateUser", "User", FormMethod.Post, new { id = "slick-login" }))
+    *@
+  @using (@Html.BeginForm("AuthenticateUser", "User", FormMethod.Post, new { id = "slick-login" }))
+    {
+        <label for="username">username</label>
+        <input type="text" name="UserName" class="placeholder" placeholder="User" value="" id="UserName">
+        <label for="password">password</label>
+        <input type="password" name="Password" class="placeholder" placeholder="Password" value="" id="Password">
+        <input type="submit" value="Log In">
+    }
+</body>
+</html>

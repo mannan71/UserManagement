@@ -1,0 +1,12 @@
+﻿@if (HttpContext.Current.User.Identity.IsAuthenticated)
+{
+    <b>
+        @Html.ActionLink(":: Logout ::", "LogOut", "User")
+    </b>
+}
+else
+{
+    <b>
+        @Html.ActionLink(":: LogIn ::", "Index", "Account")
+    </b>
+}
