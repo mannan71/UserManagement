@@ -1,0 +1,4 @@
+D:\++\My Project 2014\Final Project\UserManagement\SoftOne.License\bin\Debug\SoftOne.License.dll
+D:\++\My Project 2014\Final Project\UserManagement\SoftOne.License\bin\Debug\SoftOne.License.pdb
+D:\++\My Project 2014\Final Project\UserManagement\SoftOne.License\obj\Debug\SoftOne.License.dll
+D:\++\My Project 2014\Final Project\UserManagement\SoftOne.License\obj\Debug\SoftOne.License.pdb

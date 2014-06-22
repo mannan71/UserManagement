@@ -1,0 +1,7 @@
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\bin\Release\UM.Model.dll
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\bin\Release\UM.Model.pdb
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\bin\Release\S1.CommonBiz.dll
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\bin\Release\S1.CommonBiz.pdb
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\obj\Release\UM.Model.csprojResolveAssemblyReference.cache
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\obj\Release\UM.Model.dll
+D:\++\My Project 2014\Final Project\UserManagement\UM.Model\obj\Release\UM.Model.pdb
